@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-import this
-
+toc = "“The Zen of Python”, by TimPeters"
+print (toc)

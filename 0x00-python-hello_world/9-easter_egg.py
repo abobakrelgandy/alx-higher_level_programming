@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-toc = "The Zen of Python, by Tim Peters"
-print (toc)
+
+print ("The Zen of Python, by Tim Peters\n")
